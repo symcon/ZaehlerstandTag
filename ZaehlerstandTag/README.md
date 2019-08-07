@@ -21,8 +21,9 @@ Das Modul erlaubt die Auswahl eines Datums und zeigt dann den jeweiligen (Ersten
 
 ### 3. Software-Installation
 
-Über das Modul-Control folgende URL hinzufügen.  
-`git://github.com/symcon/SymconMisc.git`  
+* Über den Modul Store das Modul Zählerstand (Tag) installieren.
+* Alternativ über das Modul Control folgende URL hinzufügen:
+https://github.com/symcon/ZaehlerstandTag
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
