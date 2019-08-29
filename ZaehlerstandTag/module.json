@@ -10,5 +10,6 @@
 	"parentRequirements": [],
 	"childRequirements": [],
 	"implemented": [],
-	"prefix": "ZST"
+	"prefix": "ZST",
+	"url": "https://github.com/symcon/ZaehlerstandTag/tree/master/ZaehlerstandTag"
 }

@@ -23,7 +23,7 @@ Das Modul erlaubt die Auswahl eines Datums und zeigt dann den jeweiligen (Ersten
 
 * Über den Modul Store das Modul Zählerstand (Tag) installieren.
 * Alternativ über das Modul Control folgende URL hinzufügen:
-https://github.com/symcon/ZaehlerstandTag
+´https://github.com/symcon/ZaehlerstandTag`  
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
