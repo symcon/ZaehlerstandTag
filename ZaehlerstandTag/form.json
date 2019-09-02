@@ -4,7 +4,7 @@
 		{ "name": "SourceVariable", "type": "SelectVariable", "caption": "Source" },
 		{ "name": "ValueType", "type": "Select", "caption": "Value", "options": [
 			{ "caption": "First reading of the day", "value": 0 },
-			{ "caption": "Last  reading of the day", "value": 1 }
+			{ "caption": "Last reading of the day", "value": 1 }
 		]}
 	]
 }
