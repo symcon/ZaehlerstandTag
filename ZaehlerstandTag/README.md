@@ -1,7 +1,7 @@
 # Zählerstand (Tag)
 Das Modul erlaubt die Auswahl eines Datums und zeigt dann den jeweiligen (Ersten/Letzten) Zählerwert dieses Tages an.
 
-### Inhaltverzeichnis
+### Inhaltsverzeichnis
 
 1. [Funktionsumfang](#1-funktionsumfang)
 2. [Voraussetzungen](#2-voraussetzungen)
@@ -17,17 +17,17 @@ Das Modul erlaubt die Auswahl eines Datums und zeigt dann den jeweiligen (Ersten
 
 ### 2. Voraussetzungen
 
-- IP-Symcon ab Version 4.x
+- IP-Symcon ab Version 4.2
 
 ### 3. Software-Installation
 
-* Über den Modul Store das Modul Zählerstand (Tag) installieren.
-* Alternativ über das Modul Control folgende URL hinzufügen:
-´https://github.com/symcon/ZaehlerstandTag`  
+* Über den Module Store das Modul Zählerstand (Tag) installieren.
+* Alternativ über das Module Control folgende URL hinzufügen:
+`https://github.com/symcon/ZaehlerstandTag`  
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
-- Unter "Instanz hinzufügen" ist das 'Zählerstand (Tag)'-Modul unter dem Hersteller '(Sonstige)' aufgeführt.  
+- Unter "Instanz hinzufügen" ist das 'Zählerstand (Tag)'-Modul unter dem Hersteller '(Gerät)' aufgeführt.  
 
 __Konfigurationsseite__:
 
@@ -48,7 +48,7 @@ Zählerstand | Integer/Float | Wert für das ausgewählte Datum.
 
 ##### Profile:
 
-Es werden keine zusätzlichen Profile hinzugefügt
+Es werden keine zusätzlichen Profile hinzugefügt.
 
 ### 6. WebFront
 
