@@ -86,7 +86,7 @@ declare(strict_types=1);
         {
             $acID = IPS_GetInstanceListByModuleID('{43192F0B-135B-4CE7-A0A7-1475603F3060}')[0];
             $variableID = $this->ReadPropertyInteger('SourceVariable');
-            $date = GetValue($this->GetIDForIdent('Date'));
+            $date = strtotime(date('d-m-Y', GetValue($this->GetIDForIdent('Date'))) . ' 00:00:00');
 
             //Falls der "erste Wert" am Tag gesucht wird, betrachte erstmal nur den gewählten Tag.
             //Falls dort keine Werte vorhanden sind sind nutzen wir die Funktionsweise von "letzter Wert" am Tag, der dann auch den Wert von Vortagen ausgibt.
