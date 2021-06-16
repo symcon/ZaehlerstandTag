@@ -79,7 +79,7 @@ declare(strict_types=1);
          * This function will be available automatically after the module is imported with the module control.
          * Using the custom prefix this function will be callable from PHP and JSON-RPC through:
          *
-         * VIZ_Calculate($id);
+         * ZST_Calculate($id);
          *
          */
         public function Calculate()
