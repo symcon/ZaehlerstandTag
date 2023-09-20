@@ -6,5 +6,5 @@
 
 Folgende Module beinhaltet das ZaehlerstandTag Repository:
 
-- __Zählerstand (Tag)__ ([Dokumentation](ZaehlerstandTag))  
+- __Zählerstand (Tag)__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/zaehlerstand-tag))  
 	Für ein ausgewähltes Datum kann der Zählerstand angezeigt werden
