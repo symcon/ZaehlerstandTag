@@ -6,7 +6,7 @@
   </php>
   <source>
     <include>
-      <directory suffix=".php">../ZaehlerstandTag</directory>
+      <directory suffix=".php">../ReadingDay</directory>
     </include>
   </source>
 </phpunit>

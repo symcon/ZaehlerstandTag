@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-class ZaehlerstandTag extends IPSModule
+class ReadingDay extends IPSModule
 {
     public function Create()
     {
