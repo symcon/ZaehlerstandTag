@@ -8,8 +8,8 @@ class ZaehlerstandTagValidationTest extends TestCaseSymconValidation
     {
         $this->validateLibrary(__DIR__ . '/..');
     }
-    public function testValidateZaehlerstandTagModule(): void
+    public function testValidateReadingDayModule(): void
     {
-        $this->validateModule(__DIR__ . '/../ZaehlerstandTag');
+        $this->validateModule(__DIR__ . '/../ReadingDay');
     }
 }
